@@ -1,0 +1,6 @@
+site_name: Nattawipa Saetae
+nav:
+  - Home: index.md
+  - Syntax: syntax.md
+  - Information: info.md
+theme: readthedocs
